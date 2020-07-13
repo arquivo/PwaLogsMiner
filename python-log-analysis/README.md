@@ -20,3 +20,26 @@ pip install -r requirements.txt
 pip install -U spacy
 python -m spacy download pt_core_news_sm
 ```
+
+### Run
+
+```
+python 
+```
+
+### Parameters
+
+<pre>
+</pre>
+
+### Example
+
+Example and default parameters:
+
+```
+python
+```
+
+### Authors
+
+- [Pedro Gomes](pedro.gomes.fccn@gmail.com)
