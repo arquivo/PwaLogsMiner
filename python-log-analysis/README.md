@@ -21,24 +21,29 @@ pip install -U spacy
 python -m spacy download pt_core_news_sm
 ```
 
-### Run
+### 1º Step
+
+Run log_analyzer_pg.py
 
 ```
-python 
+python log_analyzer_pg.py
 ```
 
-### Parameters
+### 2º Step
+
+Run graphs.py
+
+#### Parameters
 
 <pre>
+-k or --key        --> Private Key GeoLookup ipstack
 </pre>
 
+```
+python graphs.py
+```
+
 ### Example
-
-Example and default parameters:
-
-```
-python
-```
 
 ### Authors
 
