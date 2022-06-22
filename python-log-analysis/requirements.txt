@@ -1,5 +1,5 @@
 click==7.0
-numpy==1.18.1
+numpy==1.22.0
 matplotlib==3.2.1
 spacy==2.3.0
 urlextract==1.0.0
